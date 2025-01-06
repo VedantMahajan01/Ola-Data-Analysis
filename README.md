@@ -8,7 +8,7 @@ This project analyzes data from Ola, a leading ride-hailing platform, to extract
 + Data Analysis
 + Dashboard Visualization
 
-# Key Features:
+# Key Features
 + Comprehensive data analysis using SQL queries.
 + Interactive visualizations and dashboards with Power BI.
 + Insights aimed at improving overall performance, including vehicle types, revenue and ratings, as well as enhancing user experience.
